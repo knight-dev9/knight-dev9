@@ -13,9 +13,9 @@ I'm a passionate Mobile Application Developer who is consistently growing & lear
 
 My journey started with developing Android app, though my first app was published in iOS. 
 <br />
-I'm currently holding 8.9 years of experience in software development, with 6+ years of experience in Android and iOS and 3+ years in Flutter. 
+Currently, I'm holding 8.9 years of experience in software development, with 6+ years of experience in Android and iOS and 3+ years in Flutter. 
 <br />
-Currently, I'm on a continuous learning journey, focusing on gaining hands-on experience in iOS App Development using SwiftUI, with the aim of becoming a proficient Software Development Engineer.
+On a continuous learning journey, focusing on gaining hands-on experience in iOS App Development using SwiftUI, with the aim of becoming a proficient Software Development Engineer.
 
 ### 🌟 About Me
 
